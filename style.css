@@ -24,6 +24,7 @@ a{
     height: 100px;
     align-items: center;
     justify-content: space-around;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
     
 }
 .navbarleft{
@@ -71,7 +72,7 @@ img{
     height: 650px;
     margin-top: 5%;
 
-    background: linear-gradient(90deg, rgba(252,110,4,1) 0%, rgba(222,121,46,1) 63%, rgba(244,230,88,1) 100%);
+    background: radial-gradient(circle, rgba(4,207,252,1) 0%, rgba(89,88,244,1) 100%);
     margin-left: 50%;
     transform: translateY(-50%);
     transform: translateX(-50%);
@@ -150,7 +151,7 @@ img{
   }
   
   .img-slider .navigation .btn.active{
-    background: radial-gradient(circle, rgba(252,110,4,1) 0%, rgba(244,230,88,1) 100%);
+    background: radial-gradient(circle, rgba(4,207,252,1) 0%, rgba(89,88,244,1) 100%);
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
   }
   
