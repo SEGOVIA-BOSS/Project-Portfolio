@@ -54,6 +54,11 @@ a{
     background: radial-gradient(circle, rgba(4,207,252,1) 0%, rgba(89,88,244,1) 100%);
 }
 
+.current-page a{
+  color : rgb(109, 8, 8);
+  font-size: 140%;
+}
+
 /* image slider */
 
 img{
