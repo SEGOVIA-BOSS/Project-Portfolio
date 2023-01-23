@@ -1,0 +1,17 @@
+couleur palette 
+
+#137C8B
+#709CA7
+#344D59
+#B8CBD0
+#7A90A4
+
+fonts
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Merriweather', serif;
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Libre+Bodoni&family=Merriweather&family=Montserrat&family=Poppins&family=Roboto:ital,wght@0,500;1,400&display=swap');
+
